@@ -31,8 +31,6 @@ valores iguais) e escreva o maior deles.
 marcados na partida (para cada time). Escreva o nome do vencedor.
 Caso não haja vencedor deverá ser impressa a palavra EMPATE
 
-Exercícios - Aula 11
-
 7. Crie um algoritmo que receba a idade de um usuário e diga se ele é
 maior de idade ou não.
 
